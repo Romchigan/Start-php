@@ -1,0 +1,47 @@
+.margin-form {
+    margin: 0 0 20px 0;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.margin-input {
+    margin: 15px 0;
+}
+
+.margin-fieldset {
+    margin: 0 0 20px 0;
+}
+
+.margin-heading {
+    margin: 10px 0 0 0;
+}
+
+.margin-paragraf {
+    margin: 0 0 10px 0;
+}
+
+.position {
+    margin: 10px 0 ;
+}
+
+.width-input {
+    width: 250px;
+}
+
+.color-text {
+    color: #555555;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.width-select {
+    width: 150px;
+}
+
+.bold {
+    font-weight: bold;
+}
